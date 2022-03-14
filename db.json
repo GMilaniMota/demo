@@ -2,52 +2,52 @@
   "data": [ 
     {
       "id": 1,
-      "title": 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "completed": false,
     },
     {
       "id": 2,
-      "title": 'Vestibulum in est neque. Pellentesque vestibulum',
+      "title": "Vestibulum in est neque. Pellentesque vestibulum",
       "completed": false,
     },
     {
       "id": 3,
-      "title": 'mauris sed ante rutrum',
+      "title": "mauris sed ante rutrum",
       "completed": true,
     },
     {
       "id": 4,
-      "title": 'varius mattis purus consequat. Pellentesque felis nisi, faucibus at magna',
+      "title": "varius mattis purus consequat. Pellentesque felis nisi, faucibus at magna",
       "completed": true,
     },
     {
       "id": 5,
-      "title": 'condimentum, condimentum luctus arcu.',
+      "title": "condimentum, condimentum luctus arcu.",
       "completed": false,
     },
     {
       "id": 6,
-      "title": 'Pellentesque habitant morbi',
+      "title": "Pellentesque habitant morbi",
       "completed": true,
     },
     {
       "id": 7,
-      "title":" 'tristique senectus et netus et malesuada',
+      "title": "tristique senectus et netus et malesuada",
       "completed": false,
     },
     {
       "id": 8,
-      "title": 'fames ac turpis egestas.',
+      "title": "fames ac turpis egestas.",
       "completed": false,
     },
     {
       "id": 9,
-      "title": 'Etiam placerat, diam sed ultrices porttitor',
+      "title": "Etiam placerat, diam sed ultrices porttitor",
       "completed": false,
     },
     {
       "id": 10,
-      "title": 'leo magna viverra nulla',
+      "title": "leo magna viverra nulla",
       "completed": true,
     },
   ]
